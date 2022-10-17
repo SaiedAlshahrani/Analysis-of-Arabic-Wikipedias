@@ -1,4 +1,4 @@
-# Learning From Arabic Corpora But Not  Always  From Arabic  Speakers:  A Case Study of the Arabic Wikipedia  Editions
+# Learning From Arabic Corpora But Not  Always  From Arabic  Speakers
 
 In this repository, we contribute the scripts we wrote to analyze Arabic Wikipedia editions: Modern Standard Arabic, Egyptian Arabic, and Moroccan Arabic, comparing them to the English Wikipedia using Wikimedia Statistics (Wikistats). 
 
