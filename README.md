@@ -13,7 +13,7 @@ In this repository, we contribute the scripts and data we used to analyze Arabic
 Saied Alshahrani, Esma Wali, and Jeanna Matthews. 2022. [Learning From Arabic Corpora But Not Always From Arabic Speakers: A Case Study of the Arabic Wikipedia Editions](https://aclanthology.org/2022.wanlp-1.34/). In *Proceedings of the The Seventh Arabic Natural Language Processing Workshop (WANLP)*, pages 361–371, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.
 
 ### Citation BibTeX:
-``` latex
+``` bash
 @inproceedings{alshahrani-etal-2022-learning,
     title = "Learning From {A}rabic Corpora But Not Always From {A}rabic Speakers: A Case Study of the {A}rabic {W}ikipedia Editions",
     author = "Alshahrani, Saied  and
